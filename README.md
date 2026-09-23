@@ -85,7 +85,7 @@ Com base nessa análise, foram definidos os valores de imputação buscando pres
 
 ## 8. 📈 Amostra dos Resultados
 
-A etapa **final do pipeline valida a leitura  por meio do notebook** `Amostra de Dados da Gold NYC - Pipeline`**, apresentando uma amostra dos dados e informações de volume, registros distintos, quantidade de colunas e schema.
+A etapa final do pipeline valida a leitura  por meio do notebook **`Amostra de Dados da Gold NYC - Pipeline`**, apresentando uma amostra dos dados e informações de volume, registros distintos, quantidade de colunas e schema.
 
 **Notebook:** `NYC-TAXI-OQUESTRACAO/Amostra de Dados da Gold NYC - Pipeline`
 
